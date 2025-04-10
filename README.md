@@ -17,7 +17,7 @@
 
    ```html
    %%html
-   <audio src="https://github.com/freOn1131/silence/blob/main/silence.m4a" controls>
+   <audio src="https://github.com/freOn1131/silence/raw/refs/heads/main/silence.m4a" controls>
    
 Запустите ячейку, и... вуаля! Теперь ваш Colab будет воспроизводить 24 часа тишины. Можно расслабиться и заниматься своими делами, пока сервер думает, что вы находитесь в процессе глубокого прослушивания.
 
